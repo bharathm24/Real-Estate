@@ -35,7 +35,6 @@ const styles = {
     justifyContent: "center",
     padding: "30px",
     flexWrap: "wrap",
-    background: "#eee",
   },
 };
 
